@@ -1,0 +1,39 @@
+{
+  "name": "@idkjs/bs-mailgun",
+  "version": "3.0.0-beta",
+  "description": "mailgun-js bucklescript binding",
+  "main": "index.js",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w",
+    "bsdoc": "bsdoc"
+  },
+  "keywords": [
+    "Reason",
+    "Rescript",
+    "mailgun",
+    "email"
+  ],
+  "author": "Alain Armand <aarmand.inbox@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/idkjs/bs-mailgun",
+  "bugs": {
+    "url": "https://github.com/idkjs/bs-mailgun/issues"
+  },
+  "devDependencies": {
+    "bs-platform": "^9.0.2",
+    "bsdoc": "^6.0.4-alpha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piq9117/bs-mailgun.git"
+  },
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  },
+  "files": [
+    "src/**/*.ml*",
+    "bsconfig.json"
+  ]
+}
