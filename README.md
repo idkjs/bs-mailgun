@@ -118,3 +118,4 @@ let sendMail =
 [mailgun-js]:http://bojand.github.io/mailgun-js/#/
 [mailgun]:https://www.mailgun.com/
 [mailgun-api]:https://documentation.mailgun.com/en/latest/api_reference.html
+[original ocaml code]:https://github.com/idkjs/bs-mailgun.git#original-code
