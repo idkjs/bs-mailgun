@@ -8,20 +8,15 @@ This bucklescript library is a binding for [mailgun-js][mailgun-js].
 This is code I pulled out of one my projects since the binding seem to have been unpublished
 
 ## Installation
-
 ```bash
-# first try
-npm install @piq9117/bs-mailgun
-# doesnt work use these
-npm install https://github.com/idkjs/bs-mailgun.git
+npm install @idkjs/bs-mailgun
 ```
-
 ### bsconfig
 ```json
   ...
 
   "bs-dependencies": [
-    "idkjs/bs-mailgun"
+    "@idkjs/bs-mailgun"
   ]
   ...
 ```

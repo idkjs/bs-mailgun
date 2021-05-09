@@ -10,16 +10,15 @@
     "bsdoc": "bsdoc"
   },
   "keywords": [
-    "Reason",
-    "Rescript",
+    "BuckleScript",
     "mailgun",
     "email"
   ],
-  "author": "Alain Armand <aarmand.inbox@gmail.com>",
+  "author": "Ken Aguilar <piq9117@gmail.com>",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/idkjs/bs-mailgun",
+  "homepage": "https://github.com/piq9117/bs-mailgun",
   "bugs": {
-    "url": "https://github.com/idkjs/bs-mailgun/issues"
+    "url": "https://github.com/piq9117/bs-mailgun/issues"
   },
   "devDependencies": {
     "bs-platform": "^9.0.2",
